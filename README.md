@@ -92,4 +92,4 @@ Profile on Coding Platforms:
 
 <br><br>
 
-[![Connect on Telegram](https://img.shields.io/badge/--LeetCode?label=LeetCode&logo=Leetcode&style=social)](https://t.me/princekrsh) 
+[![Connect on Telegram](https://img.shields.io/badge/--LeetCode?label=LeetCode&logo=Leetcode&style=for-the-badge)](https://t.me/princekrsh) 
