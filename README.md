@@ -92,4 +92,7 @@ Profile on Coding Platforms:
 
 <br><br>
 
-[![Connect on Telegram](https://img.shields.io/badge/--LeetCode?label=LeetCode&logo=Leetcode&style=for-the-badge)](https://t.me/princekrsh) 
+[![My LeetCode Profile](https://img.shields.io/badge/--LeetCode?label=LeetCode&logo=Leetcode&style=for-the-badge)](https://t.me/princekrsh) 
+[![My Codechef Profile](https://img.shields.io/badge/--CodeChef?label=CodeChef&logo=CodeChef&style=for-the-badge)](https://t.me/princekrsh) 
+[![My Codeforces Profile](https://img.shields.io/badge/--Codeforces?label=Codeforces&logo=Codeforces&style=for-the-badge)](https://t.me/princekrsh)
+[![My HackerRank Profile](https://img.shields.io/badge/--HackerRank?label=HackerRank&logo=HackerRank&style=for-the-badge)](https://t.me/princekrsh) 
