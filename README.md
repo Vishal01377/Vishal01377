@@ -34,7 +34,7 @@ Profile on Coding Platforms:
 <br></br>
 <p align="center">
   
-[![My HackerRank Profile](https://img.shields.io/badge/--HackerRank?label=HackerRank&logo=HackerRank&style=for-the-badge)](https://www.hackerrank.com/mrvishalsharma8)[![My GFG Profile](https://img.shields.io/badge/--GeeksforGeeks?label=GeeksforGeeks&logo=GeeksforGeeks&style=for-the-badge)](https://www.hackerrank.com/mrvishalsharma8)[![My LeetCode Profile](https://img.shields.io/badge/--LeetCode?label=LeetCode&logo=Leetcode&style=for-the-badge)](https://leetcode.com/MrSharma/)[![My Codechef Profile(https://img.shields.io/badge/--CodeChef?label=CodeChef&logo=CodeChef&style=for-the-badge)](https://www.codechef.com/users/mrsharma_01) 
+[![My HackerRank Profile](https://img.shields.io/badge/--HackerRank?label=HackerRank&logo=HackerRank&style=for-the-badge)](https://www.hackerrank.com/mrvishalsharma8)[![My GFG Profile](https://img.shields.io/badge/--GeeksforGeeks?label=GeeksforGeeks&logo=GeeksforGeeks&style=for-the-badge)](https://www.hackerrank.com/mrvishalsharma8)[![My LeetCode Profile](https://img.shields.io/badge/--LeetCode?label=LeetCode&logo=Leetcode&style=for-the-badge)](https://leetcode.com/MrSharma/)[![My Codechef Profile](https://img.shields.io/badge/--CodeChef?label=CodeChef&logo=CodeChef&style=for-the-badge)](https://www.codechef.com/users/mrsharma_01) 
 
       
  </p>
