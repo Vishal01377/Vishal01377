@@ -33,10 +33,11 @@
 Profile on Coding Platforms:
 <br></br>
 <p align="center">
-<a href="https://leetcode.com/MrSharma/" rel="nofollow"><img src="https://camo.githubusercontent.com/e464e43ac55eebb4b915e720f6a19bbec02b60200358324c46037b17941cbf87/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c656574436f64652d6666386330303f7374796c653d666c6174266c6162656c436f6c6f723d666638633030266c6f676f3d4c656574436f6465266c6f676f436f6c6f723d7768697465" alt="LeetCode" data-canonical-src="https://img.shields.io/badge/-LeetCode-ff8c00?style=flat&amp;labelColor=ff8c00&amp;logo=LeetCode&amp;logoColor=white" style="max-width:100%;"></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.hackerrank.com/mrvishalsharma8" rel="nofollow"><img src="https://camo.githubusercontent.com/e4ce38f060a7c4a81306e9db3e07a89c092217a9f04a6ca4c5f7e247a4368283/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6861636b657272616e6b2d3763666330303f7374796c653d666c6174266c6162656c436f6c6f723d376366633030266c6f676f3d6861636b657272616e6b266c6f676f436f6c6f723d7768697465" alt="Hackerrank" data-canonical-src="https://img.shields.io/badge/-hackerrank-7cfc00?style=flat&amp;labelColor=7cfc00&amp;logo=hackerrank&amp;logoColor=white" style="max-width:100%;"></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.interviewbit.com/profile/MrSharma" rel="nofollow"><img src="https://camo.githubusercontent.com/68f7b541f63ec978fa7b2ff89f97c580e50d323ba227edeca5df22afab46eec4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d496e746572766965776269742d3837636565623f7374796c653d666c6174266c6162656c436f6c6f723d383763656562266c6f676f3d496e74657276696577626974266c6f676f436f6c6f723d7768697465" alt="InterViewBit" data-canonical-src="https://img.shields.io/badge/-Interviewbit-87ceeb?style=flat&amp;labelColor=87ceeb&amp;logo=Interviewbit&amp;logoColor=white" style="max-width:100%;"></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.interviewbit.com/profile/MrSharma" rel="nofollow"><img src="https://camo.githubusercontent.com/4164b493d294488a2825cc875853f55e289ca9616922791619aa8a2f02de1144/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6861636b657265617274682d707572706c652e737667" alt="Hackerearth" data-canonical-src="https://img.shields.io/badge/hackerearth-purple.svg" style="max-width:100%;"></a>
+[![My LeetCode Profile](https://img.shields.io/badge/--LeetCode?label=LeetCode&logo=Leetcode&style=for-the-badge)](https://t.me/princekrsh) 
+[![My Codechef Profile](https://img.shields.io/badge/--CodeChef?label=CodeChef&logo=CodeChef&style=for-the-badge)](https://t.me/princekrsh) 
+[![My Codeforces Profile](https://img.shields.io/badge/--Codeforces?label=Codeforces&logo=Codeforces&style=for-the-badge)](https://t.me/princekrsh)
+[![My HackerRank Profile](https://img.shields.io/badge/--HackerRank?label=HackerRank&logo=HackerRank&style=for-the-badge)](https://t.me/princekrsh)
+[![My GFG Profile](https://img.shields.io/badge/--GeeksforGeeks?label=GeeksforGeeks&logo=GeeksforGeeks&style=for-the-badge)](https://t.me/princekrsh) 
       </p>
 <hr></hr>
 
@@ -91,10 +92,4 @@ Profile on Coding Platforms:
 <p align="center"><img src="https://camo.githubusercontent.com/7da528df692aea867b90800324488b633f5a8328d74c05a02c26483c0a267799/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5468616e6b73253230666f722532307669736974696e672d212d3145414544422e737667" alt="Thanks!" data-canonical-src="https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg" style="max-width:100%;"></p>
 
 <br><br>
-
-[![My LeetCode Profile](https://img.shields.io/badge/--LeetCode?label=LeetCode&logo=Leetcode&style=for-the-badge)](https://t.me/princekrsh) 
-[![My Codechef Profile](https://img.shields.io/badge/--CodeChef?label=CodeChef&logo=CodeChef&style=for-the-badge)](https://t.me/princekrsh) 
-[![My Codeforces Profile](https://img.shields.io/badge/--Codeforces?label=Codeforces&logo=Codeforces&style=for-the-badge)](https://t.me/princekrsh)
-[![My HackerRank Profile](https://img.shields.io/badge/--HackerRank?label=HackerRank&logo=HackerRank&style=for-the-badge)](https://t.me/princekrsh)
-[![My GFG Profile](https://img.shields.io/badge/--GeeksforGeeks?label=GeeksforGeeks&logo=GeeksforGeeks&style=for-the-badge)](https://t.me/princekrsh) 
 
